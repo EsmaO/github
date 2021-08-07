@@ -23,7 +23,7 @@ public class ClassOne {
          *****
          */
         
-        
+        String str="JAVA";
 
  System.out.println("This is remote repo code");
 
